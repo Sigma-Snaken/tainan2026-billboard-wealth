@@ -1,0 +1,25 @@
+{
+ "locations": 736,
+ "extra_photos": 75,
+ "candidates": 102,
+ "locations_with_card": 729,
+ "poster_mode": 52,
+ "detect_error": 1,
+ "by_city": {
+  "臺南市": 619,
+  "高雄市": 28,
+  "嘉義縣": 1,
+  "臺北市": 22,
+  "宜蘭縣": 1,
+  "臺中市": 2,
+  "雲林縣": 2,
+  "桃園市": 1,
+  "新北市": 60
+ },
+ "how": {
+  "name": 753,
+  "no_box": 38,
+  "one_char": 2,
+  "guess": 2
+ }
+}
